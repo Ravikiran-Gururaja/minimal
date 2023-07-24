@@ -100,6 +100,6 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 Thank You for viewing this page.
 
-<center> <img src="assets/img/Image(184).jpg" width=150 height=75> </center>
+<center> <img src="assets/img/Image(184).jpg" width=150 height=90> </center>
 
 <center><i> This site is maintained by 'Ravikiran Gururaja'</i></center>
