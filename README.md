@@ -1,5 +1,5 @@
-title: <p align="center"> Ravikiran Gururaja </p>
-logo: /assets/img/king3.jpg
+
+<center> <img src= "assets/img/king2.jpg"/> </center>
 description: 
 <p align="center">
 <a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Resume </a> 
@@ -8,16 +8,9 @@ description:
 
  <a href="https://github.com/Ravikiran-Gururaja">  GitHub  </a>
 <br>   
-  I'm learning Artificial Intelligence, Machine learning & NLP related problems.
-
+<p> I'm learning Artificial Intelligence, Machine learning & NLP related problems. </p>
   <br>
   </p>
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
-
-
-<center> <img src= "assets/img/king2.jpg"/> </center>
 
 # Data Science Portfolio
 ---
