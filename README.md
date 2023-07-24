@@ -1,3 +1,22 @@
+title: <p align="center"> Ravikiran Gururaja </p>
+logo: /assets/img/king3.jpg
+description: 
+<p align="center">
+<a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Resume </a> 
+
+<a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  LinkedIn  </a>
+
+ <a href="https://github.com/Ravikiran-Gururaja">  GitHub  </a>
+<br>   
+  I'm learning Artificial Intelligence, Machine learning & NLP related problems.
+
+  <br>
+  </p>
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+
 <center> <img src= "assets/img/king2.jpg"/> </center>
 
 # Data Science Portfolio
