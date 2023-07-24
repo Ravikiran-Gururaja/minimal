@@ -1,4 +1,4 @@
-<center> <h1><b>RAVIKIRAN GURURAJA </b></h1></center>
+#                               RAVIKIRAN GURURAJA
 ---
 <center> <img src= "assets/img/king2.jpg" alt="Ravikiran Gururaja"> </center>
 
