@@ -1,4 +1,4 @@
-#                               RAVIKIRAN GURURAJA
+<center><body color=red size=+4><b>RAVIKIRAN GURURAJA</b></body></center>
 ---
 <center> <img src= "assets/img/king2.jpg" alt="Ravikiran Gururaja"> </center>
 
