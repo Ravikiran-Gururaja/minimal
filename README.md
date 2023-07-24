@@ -1,6 +1,6 @@
 # RAVIKIRAN GURURAJA
 ---
-<center> <img src= "assets/img/king2.jpg"/> </center>
+<center> <img src= "assets/img/king2.jpg" alt="Ravikiran Gururaja"> </center>
 
 <p align="center">
 <a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Ravikiran Gururaja's resume </a> 
@@ -9,7 +9,7 @@
 
  <a href="https://github.com/Ravikiran-Gururaja">  GitHub  </a>
 <br>   
-<p> <center> I'm learning Artificial Intelligence, Machine learning & NLP related problems. </center></p>
+ <center> <p style="color:red">Pursuing Artificial Intelligence, Machine learning & NLP related problems.</p> </center>
   <br>
   </p>
 
@@ -98,8 +98,8 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 <center> <img src="assets/img/Human_activity.jpg"/> </center>
 
-Thank You for viewing this page.
+<center>Thank You for viewing this page.</center>
 
-<center> <img src="assets/img/Image(184).jpg" width=150 height=90> </center>
+<center> <img src="assets/img/Image(184).jpg" alt="Ravikiran Gururaja" width=150 height=90> </center>
 
-<center><i> This site is maintained by 'Ravikiran Gururaja'</i></center>
+<center> <p style="color:red"><i> This site is maintained by 'Ravikiran Gururaja'</i></p></center>
