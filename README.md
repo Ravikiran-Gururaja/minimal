@@ -9,7 +9,7 @@
 
  <a href="https://github.com/Ravikiran-Gururaja">  GitHub  </a>
 <br>   
-<p> I'm learning Artificial Intelligence, Machine learning & NLP related problems. </p>
+<p> <center> I'm learning Artificial Intelligence, Machine learning & NLP related problems. </center></p>
   <br>
   </p>
 
@@ -23,7 +23,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 <br>
-<center> <img src= "assets/img/fraud_detection.jpg"/> </center>
+<center> <img src= "assets/img/fraud_detection.png"/> </center>
 
 ---
 ### Financial-Models-Numerical-Methods
