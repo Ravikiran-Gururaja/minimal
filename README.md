@@ -3,7 +3,7 @@
 <center> <img src= "assets/img/king2.jpg" alt="Ravikiran Gururaja"> </center>
 
 <p align="center">
-<a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Ravikiran Gururaja's resume </a> 
+<iframe src="assests/img/Ravikiran_Gururaja_resume.pdf"> Ravikiran Gururaja's resume </iframe> 
 
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  LinkedIn  </a>
 
