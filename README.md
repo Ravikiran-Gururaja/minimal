@@ -1,5 +1,5 @@
-
 # RAVIKIRAN GURURAJA
+---
 <center> <img src= "assets/img/king2.jpg"/> </center>
 
 <p align="center">
@@ -99,3 +99,5 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 <center> <img src="assets/img/Human_activity.jpg"/> </center>
 
 Thank You for viewing this page.
+
+<i> This site is maintained by 'Ravikiran Gururaja'
