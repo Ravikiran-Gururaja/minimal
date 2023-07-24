@@ -1,8 +1,8 @@
 
 <center> <img src= "assets/img/king2.jpg"/> </center>
-description: 
+
 <p align="center">
-<a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Resume </a> 
+<a href="assests/img/Ravikiran_Gururaja_resume.pdf"> Ravikiran Gururaja's resume </a> 
 
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  LinkedIn  </a>
 
