@@ -1,6 +1,6 @@
 <p align=center style="color:red" size=4><b>RAVIKIRAN GURURAJA</b></p>
 ---
-<center> <img src= "assets/img/my_photo.jpg" alt="Ravikiran Gururaja"> </center>
+<center> <img src= "assets/img/king3.jpg" alt="Ravikiran Gururaja"> </center>
 
 <p align="center">
  Ravikiran Gururaja's
