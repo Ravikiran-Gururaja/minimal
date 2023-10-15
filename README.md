@@ -21,14 +21,14 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 <br>
 <center> <img src= "assets/img/fraud_detection.png"/> </center>
 
 ---
 ### Financial-Models-Numerical-Methods
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 This is just a collection of topics and algorithms that in my opinion are interesting.
 
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
@@ -41,7 +41,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 ---
 ### LSTM Neural Network for Time Series Prediction
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 
 The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
@@ -50,7 +50,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
 <center> <img src ="assets/img/Convolutional-neural-network-sample-Cho-Kim-2021.png"/> </center>
@@ -58,7 +58,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 ---
 ### Awesome Machine Learning
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]((https://ravikiran-gururaja.github.io/minimal/))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
@@ -67,7 +67,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 ---
 ### Gesture Recognizer
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
@@ -80,7 +80,7 @@ Suggestion: Better to download Anaconda as it will take care of most of the othe
 ---
 ### Human Activity Recognition
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://ravikiran-gururaja.github.io/minimal/))
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
 
@@ -97,6 +97,7 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 <center> <img src="assets/img/Human_activity.jpg"/> </center>
 
 # My Projects 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
 
  <a href="https://ravikiran-gururaja.github.io/Lending_Club_Case_Study"> Lending Club Case Study  </a>
 <br>
