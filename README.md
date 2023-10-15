@@ -101,12 +101,12 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 # My Projects 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
-
- <a href="https://ravikiran-gururaja.github.io/Lending_Club_Case_Study"> Lending Club Case Study  </a>
 <br>
- <a href="https://ravikiran-gururaja.github.io/Bike_Sharing_Assignment/"> Bike Sharing Assignment  </a>
+1) <a href="https://ravikiran-gururaja.github.io/Lending_Club_Case_Study"> Lending Club Case Study  </a>
 <br>
-<a href="https://ravikiran-gururaja.github.io/House_Price_Prediction/"> House Price Prediction </a>
+2)  <a href="https://ravikiran-gururaja.github.io/Bike_Sharing_Assignment/"> Bike Sharing Assignment  </a>
+<br>
+3) <a href="https://ravikiran-gururaja.github.io/House_Price_Prediction/"> House Price Prediction </a>
 <br>
 <br>
 
