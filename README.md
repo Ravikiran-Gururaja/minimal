@@ -104,7 +104,7 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 <br>
 1) <a href="https://ravikiran-gururaja.github.io/Lending_Club_Case_Study"> Lending Club Case Study  </a>
 <br>
-2)  <a href="https://ravikiran-gururaja.github.io/Bike_Sharing_Assignment/"> Bike Sharing Assignment  </a>
+2) <a href="https://ravikiran-gururaja.github.io/Bike_Sharing_Assignment/"> Bike Sharing Assignment  </a>
 <br>
 3) <a href="https://ravikiran-gururaja.github.io/House_Price_Prediction/"> House Price Prediction </a>
 <br>
