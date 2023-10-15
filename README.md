@@ -29,6 +29,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ### Financial-Models-Numerical-Methods
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
+<br>
 This is just a collection of topics and algorithms that in my opinion are interesting.
 
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
