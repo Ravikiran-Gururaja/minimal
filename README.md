@@ -96,7 +96,17 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 <center> <img src="assets/img/Human_activity.jpg"/> </center>
 
-<center>Thank You for viewing this page.</center>
+### Projects 
+
+ <a href="https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study"> Lending Club Case Study  </a>
+<br>
+ <a href="https://ravikiran-gururaja.github.io/Bike_Sharing_Assignment/"> Bike Sharing Assignment  </a>
+<br>
+<a href="https://ravikiran-gururaja.github.io/House_Price_Prediction/"> House Price Prediction </a>
+<br>
+<br>
+
+<center><b><i></b>Thank You for viewing this page.</i> </b></center>
 
 <center> <img src="assets/img/Image(184).jpg" alt="Ravikiran Gururaja" width=150 height=110> </center>
 
