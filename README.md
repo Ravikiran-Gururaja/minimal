@@ -96,7 +96,7 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 
 <center> <img src="assets/img/Human_activity.jpg"/> </center>
 
-### Projects 
+## My Projects 
 
  <a href="https://github.com/Ravikiran-Gururaja/Lending_Club_Case_Study"> Lending Club Case Study  </a>
 <br>
@@ -106,7 +106,7 @@ Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usa
 <br>
 <br>
 
-<center><b><i></b>Thank You for viewing this page.</i> </b></center>
+<center><b><i>Thank You for viewing this page.</i> </b></center>
 
 <center> <img src="assets/img/Image(184).jpg" alt="Ravikiran Gururaja" width=150 height=110> </center>
 
