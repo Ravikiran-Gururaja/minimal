@@ -53,6 +53,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ### Text Classification
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Ravikiran-Gururaja)
+<br>
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
 <center> <img src ="assets/img/Convolutional-neural-network-sample-Cho-Kim-2021.png"/> </center>
